@@ -1,0 +1,3 @@
+grep -oEi '^(rapeepan)+' email.txt 
+grep -oE '\b(6452300148)+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b' email.txt 
+grep -oE '\b(6452300148)' email.txt 
